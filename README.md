@@ -36,7 +36,6 @@ Does this demo help your work? Donate here if you can via GitHub sponsors.
 
 Have feedback? Have thoughts about this? Want to contribute?
 
-Contact the maintainer at <joel@joelparkerhenderson.com>.
 
 ---
 
@@ -2305,13 +2304,3 @@ We welcome constructive feedback via GitHub issues:
 - Any requests for new demo sections or example topics?
 
 - Any bugs or issues in the demo code or documentation?
-
-## Contact
-
-Joel Parker Henderson
-
-<joel@joelparkerhenderson.com>
-
-<https://linkedin.com/in/joelparkerhenderson>
-
-<https://github.com/joelparkerhenderson>
